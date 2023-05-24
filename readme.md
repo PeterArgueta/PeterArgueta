@@ -2,11 +2,6 @@
   <img src="https://github.com/PeterArgueta/PeterArgueta/blob/aa8781673f61a3273a1d5339991f10377c799f2c/photo1684450214.jpeg" width="200"/>
 </div>
 
-
-## Peter Argueta 
-
-
-
 <h1 align="center">Hi 👋, I'm Peter Argueta</h1>
 <h3 align="center">I have a degree in physics and work in climate data analysis.</h3>
 
