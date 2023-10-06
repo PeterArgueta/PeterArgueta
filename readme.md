@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/PeterArgueta/PeterArgueta/photo1684450214.jpeg" width="200"/>
+  <img src="https://github.com/PeterArgueta/PeterArgueta/blob/73ea228aa7c380fc784f791bf7addf04593534b8/photo1684450214.jpeg" width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Peter Argueta</h1>
