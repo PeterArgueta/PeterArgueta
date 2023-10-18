@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="picture.png" width="200"/>
+  <img src="picture.png" width="600"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Peter Argueta</h1>
