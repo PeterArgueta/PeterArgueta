@@ -1,7 +1,3 @@
-  <div id="header" align="center">
-  <img src="picture.png" width="600"/>
-</div>
-
 <h3 align="center">Physicist | Climate Data Analyst | Educator</h3>
 
 ---
