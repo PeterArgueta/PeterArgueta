@@ -1,5 +1,4 @@
 <div align="center" style="color:#003366;">
-  <h1>Peter Argueta</h1>
   <h3>Physicist | Climate Data Analyst | Educator</h3>
 </div>
 
