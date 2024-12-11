@@ -38,6 +38,21 @@ I hold a **degree in Applied Physics** and have extensive experience in **climat
   </table>
 </div>
 
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterArgueta&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterArgueta&theme=radical" alt="GitHub Streak Stats" width="400"/>
+</div>
+
+---
+
+### 🟩 Contributions Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=PeterArgueta&theme=github" alt="GitHub Contributions Graph" width="800"/>
+</div>
+
+
+
 ---
 
 ### 📂 My Experience:
