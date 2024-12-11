@@ -1,8 +1,8 @@
-<div id="header" align="center">
+  <div id="header" align="center">
   <img src="picture.png" width="600"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Peter Argueta</h1>
+<h1 align="center">Hola, mi nombre es Peter Argueta!</h1>
 <h3 align="center">Physicist | Climate Data Analyst | Educator</h3>
 
 ---
