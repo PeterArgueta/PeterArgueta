@@ -2,7 +2,6 @@
   <img src="picture.png" width="600"/>
 </div>
 
-<h1 align="center">Hola, mi nombre es Peter Argueta!</h1>
 <h3 align="center">Physicist | Climate Data Analyst | Educator</h3>
 
 ---
