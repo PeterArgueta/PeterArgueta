@@ -56,12 +56,14 @@ I hold a **degree in Applied Physics** and have extensive experience in **climat
 
 ---
 
-### 📂 My Experience:
-- **Coordinator of the Climatology Section**, INSIVUMEH (2023 - 2024)  
-  Leading climatology projects, coordinating field teams, and representing Guatemala in international meteorological initiatives.
+### 📂 My Experience:- 
 
 - **University Lecturer**, Universidad Mariano Gálvez (2021 - Present)  
   Teaching courses in Mathematics, Physics, and Numerical Analysis.
+
+
+- **Coordinator of the Climatology Section**, INSIVUMEH (2023 - 2024)  
+  Leading climatology projects, coordinating field teams, and representing Guatemala in international meteorological initiatives.
 
 - **Professional Services in Vulcanology and Geophysics**, INSIVUMEH (2019 - 2022)  
   Developed automated routines for satellite data analysis and seismic monitoring.
