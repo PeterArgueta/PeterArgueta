@@ -25,7 +25,7 @@ I hold a **degree in Applied Physics** and have extensive experience in **climat
         <a href="https://youtube.com/@pitercios03" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
         </a>
-        <a href="mailto:peterarguedo@gmail.com">
+        <a href="mailto:peterargueta@duck.com">
           <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
         </a>
         <a href="https://github.com/PeterArgueta" target="_blank">
