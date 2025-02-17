@@ -7,7 +7,7 @@
 ### 🌟 About Me
 I hold a **degree in Applied Physics** and have extensive experience in **climate data analysis**, **meteorology**, and **teaching**. Passionate about leveraging technology and data for scientific research and education.
 
-- 🔭 **Current Role**: Teacher at Mariano Galvez, University, Guatemala.  
+- 🔭 **Current Role**: Lecturer at Mariano Galvez, University, Guatemala.  
 - 🌱 **What I'm learning**: Advanced climate modeling and geospatial analysis tools.  
 - 💬 **Ask me about**: Python, data analysis, or climate science.
 
