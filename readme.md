@@ -1,5 +1,5 @@
 <div align="center" style="color:#003366;">
-  <h3>Physicist | Climate Data Analyst | Educator</h3>
+  <h3>Physicist | Data Analyst | Educator</h3>
 </div>
 
 ---
