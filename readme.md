@@ -21,7 +21,7 @@
 
 ## 🌟 Sobre mí
 
-Físico Aplicado con experiencia en análisis de datos científicos, climatología y vulcanología. Me apasiona automatizar procesos con Python, visualizar datos geoespaciales y enseñar ciencias exactas a nivel universitario. He representado a Guatemala en iniciativas meteorológicas internacionales y desarrollado sistemas de monitoreo sísmico en tiempo real.
+Físico Aplicado con experiencia en análisis de datos científicos, climatología y vulcanología. Me apasiona automatizar procesos con Python, visualizar datos geoespaciales y enseñar ciencias exactas a nivel universitario. He representado a Guatemala en iniciativas meteorológicas internacionales y desarrollado sistemas de monitoreo tiempo real.
 
 ---
 
