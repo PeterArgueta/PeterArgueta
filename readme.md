@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Peter Argueta
 
-### Físico Aplicado · Analista de Datos · Docente Universitario · Guatemala 🇬🇹
+### Físico · Analista de Datos · Docente Universitario · Guatemala 🇬🇹
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -53,7 +53,8 @@ Físico Aplicado con experiencia en análisis de datos científicos, climatolog�
 ---
 
 ## 💼 Experiencia
-
+<div align="center">
+  
 | Rol | Organización | Período |
 |-----|-------------|---------|
 | **Docente Universitario** | Universidad Mariano Gálvez | 2021 – Presente |
