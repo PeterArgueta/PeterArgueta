@@ -1,100 +1,101 @@
-<div align="center" style="color:#003366;">
-  <h3>Physicist | Data Analyst | Educator</h3>
-</div>
-
----
-
-### 🌟 About Me
-I hold a **degree in Applied Physics** and have extensive experience in **data analysis**, **climatology**, and **teaching**. Passionate about leveraging technology and data for scientific research and education.
-
-- 🔭 **Current Role**: Lecturer at Mariano Galvez, University, Guatemala.  
-- 🌱 **What I'm learning**: Data Analyst and geospatial analysis tools.  
-- 💬 **Ask me about**: Python, data analysis, math and physics or climate science.
-
----
-
-### 🔗 Connect with Me | 💻 Languages and Tools:
 <div align="center">
-  <table style="width:80%; border-collapse: collapse; color:#003366;">
-    <tr>
-      <td align="center" valign="top">
-        <b>Connect with Me:</b><br><br>
-        <a href="https://linkedin.com/in/peter-argueta-a5b2a21a4/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://youtube.com/@pitercios03" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-        </a>
-        <a href="mailto:peterargueta@duck.com">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
-        </a>
-        <a href="https://github.com/PeterArgueta" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <b>Languages and Tools:</b><br><br>
-        <a href="https://www.python.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-        </a>
-        <a href="https://www.qgis.org/en/site/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        </a>
-        <a href="https://www.latex-project.org/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+# 👋 Hola, soy Peter Argueta
+
+### Físico Aplicado · Analista de Datos · Docente Universitario · Guatemala 🇬🇹
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-0D6EFD?style=flat&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-E05C5C?style=flat&logoColor=white)
+
+🔭 Docente en Universidad Mariano Gálvez &nbsp;·&nbsp; 🌱 Aprendiendo análisis geoespacial avanzado &nbsp;·&nbsp; 💬 Pregúntame sobre Python, datos o clima
+
 </div>
 
 ---
 
-### 📂 My Experience:- 
+## 🌟 Sobre mí
 
-- **University Lecturer**, Universidad Mariano Gálvez (2021 - Present)  
-  Teaching courses in Mathematics, Physics, and Numerical Analysis.
-
-
-- **Coordinator of the Climatology Section**, INSIVUMEH (2023 - 2024)  
-  Leading climatology projects, coordinating field teams, and representing Guatemala in international meteorological initiatives.
-
-- **Professional Services in Vulcanology and Geophysics**, INSIVUMEH (2019 - 2022)  
-  Developed automated routines for satellite data analysis and seismic monitoring.
-
-- **Teaching Assistant**, Universidad de San Carlos de Guatemala (2017 - 2019)  
-  Supported courses in Physics and Mechanics.
+Físico Aplicado con experiencia en análisis de datos científicos, climatología y vulcanología. Me apasiona automatizar procesos con Python, visualizar datos geoespaciales y enseñar ciencias exactas a nivel universitario. He representado a Guatemala en iniciativas meteorológicas internacionales y desarrollado sistemas de monitoreo sísmico en tiempo real.
 
 ---
 
-### 🎓 Education:
-- **Bachelor's Degree in Applied Physics**, Universidad de San Carlos de Guatemala (2014 - 2019)  
-  Thesis: Automatic Recognition of Volcanic Seismic Signals at Volcán Santiaguito, Guatemala.
+## 🛠️ Habilidades
+
+**Lenguajes & Herramientas:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-0D6EFD?style=flat&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-E05C5C?style=flat&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+
+**Áreas de experiencia:**
+- 🌍 Análisis geoespacial (QGIS, ArcGIS, GeoServer)
+- 🌦️ Análisis de datos climatológicos y satelitales
+- 🌋 Monitoreo sísmico y vulcanológico
+- 🤖 Automatización de procesos con Python y Bash
+- 📝 Escritura científica con LaTeX
+- 🎓 Docencia universitaria en ciencias exactas
 
 ---
 
-### 🛠️ Skills:
-- Data Analysis  
-- Python Scripting  
-- Bash Automation  
-- GIS Tools (QGIS)  
-- KoboToolbox  
-- Scientific Writing (LaTeX)  
+## 💼 Experiencia
+
+| Rol | Organización | Período |
+|-----|-------------|---------|
+| **Docente Universitario** | Universidad Mariano Gálvez | 2021 – Presente |
+| **Coordinador de Climatología** | INSIVUMEH | 2023 – 2024 |
+| **Vulcanología y Geofísica** | INSIVUMEH | 2019 – 2022 |
+| **Asistente de Docencia** | USAC | 2017 – 2019 |
 
 ---
 
-### 🌍 Languages:
-- **Spanish**: Native  
-- **English**: Intermediate (B1-B2)  
+## 🎓 Educación
+
+🎓 **Licenciatura en Física Aplicada** — Universidad de San Carlos de Guatemala (USAC), 2014–2019
+
+> *Tesis: Reconocimiento Automático de Señales Sísmicas Volcánicas en el Volcán Santiaguito, Guatemala.*
 
 ---
 
-<div align="center" style="color:#003366;">
-  <p>Feel free to explore my repositories and connect for collaboration opportunities or knowledge sharing!</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterArgueta&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterArgueta&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 **Español** — Nativo
+- 🇬🇧 **Inglés** — Nivel intermedio (B1–B2)
+
+---
+
+## 🔗 Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-argueta-a5b2a21a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterArgueta)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pitercios03)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterargueta@duck.com)
+
 </div>
