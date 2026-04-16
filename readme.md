@@ -51,10 +51,11 @@ Físico Aplicado con experiencia en análisis de datos científicos, climatolog�
 - 🎓 Docencia universitaria en ciencias exactas
 
 ---
+
 ## 💼 Experiencia
+
 <div align="center">
 
-  
 | Rol | Organización | Período |
 |-----|-------------|---------|
 | **Docente Universitario** | Universidad Mariano Gálvez | 2021 – Presente |
@@ -62,15 +63,19 @@ Físico Aplicado con experiencia en análisis de datos científicos, climatolog�
 | **Vulcanología y Geofísica** | INSIVUMEH | 2019 – 2022 |
 | **Asistente de Docencia** | USAC | 2017 – 2019 |
 
+</div>
+
 ---
 
 ## 🎓 Educación
 
 <div align="center">
-  
+
 🎓 **Licenciatura en Física Aplicada** — Universidad de San Carlos de Guatemala (USAC), 2014–2019
 
 > *Tesis: Reconocimiento Automático de Señales Sísmicas Volcánicas en el Volcán Santiaguito, Guatemala.*
+
+</div>
 
 ---
 
