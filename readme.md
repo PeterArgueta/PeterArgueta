@@ -1,109 +1,85 @@
-<div align="center">
+# Peter Argueta
 
-# 👋 Hola, soy Peter Argueta
+**Físico Aplicado | Análisis de Datos y Desarrollo Tecnológico | Docencia Universitaria**
 
-### Físico · Analista de Datos · Docente Universitario · Guatemala 🇬🇹
+Guatemala · [LinkedIn](https://www.linkedin.com/in/peter-argueta-a5b2a21a4/) · [Correo](mailto:peterargueta@duck.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-0D6EFD?style=flat&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-E05C5C?style=flat&logoColor=white)
+## Sobre mí
 
-🔭 Docente en Universidad Mariano Gálvez &nbsp;·&nbsp; 🌱 Aprendiendo análisis geoespacial avanzado &nbsp;·&nbsp; 💬 Pregúntame sobre Python, datos o clima
+Soy licenciado en Física Aplicada, con experiencia en el análisis, procesamiento y visualización de datos, así como en el desarrollo de herramientas tecnológicas para facilitar el manejo y la interpretación de información.
 
-</div>
+Mi trabajo abarca la construcción y análisis de indicadores, la elaboración de informes técnicos, la automatización de procesos y el desarrollo de soluciones para la presentación y consulta de datos. También cuento con experiencia en investigación científica, sistemas de información geográfica y docencia universitaria en matemáticas y física.
 
----
+Me interesa transformar datos en información clara, accesible y útil para comprender fenómenos, evaluar resultados y apoyar la toma de decisiones.
 
-## 🌟 Sobre mí
+## Áreas de experiencia
 
-Físico Aplicado con experiencia en análisis de datos científicos, climatología y vulcanología. Me apasiona automatizar procesos con Python, visualizar datos geoespaciales y enseñar ciencias exactas a nivel universitario. He representado a Guatemala en iniciativas meteorológicas internacionales y desarrollado sistemas de monitoreo tiempo real.
+### Análisis de datos e indicadores
 
----
+- Construcción, seguimiento e interpretación de indicadores.
+- Análisis estadístico y exploratorio de datos.
+- Elaboración de informes técnicos y ejecutivos.
+- Visualización de información y desarrollo de tableros de indicadores.
+- Análisis de series temporales, tendencias y resultados.
+- Limpieza, integración y procesamiento de bases de datos.
 
-## 🛠️ Habilidades
+### Desarrollo tecnológico y automatización
 
-**Lenguajes & Herramientas:**
+- Desarrollo de aplicaciones y herramientas web.
+- Automatización de procesos y transformación de datos con Python.
+- Diseño de herramientas para consulta, procesamiento y visualización de información.
+- Integración de fuentes y conversión de formatos de datos.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-0D6EFD?style=flat&logoColor=white)
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-E05C5C?style=flat&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+### Análisis geoespacial
 
-**Áreas de experiencia:**
-- 🌍 Análisis geoespacial (QGIS, ArcGIS, GeoServer)
-- 🌦️ Análisis de datos climatológicos y satelitales
-- 🌋 Monitoreo sísmico y vulcanológico
-- 🤖 Automatización de procesos con Python y Bash
-- 📝 Escritura científica con LaTeX
-- 🎓 Docencia universitaria en ciencias exactas
+- Procesamiento, análisis y representación de información territorial.
+- Elaboración de mapas y visualizaciones interactivas.
+- Trabajo con sistemas de información geográfica y datos espaciales.
 
----
+### Investigación y docencia
 
-## 💼 Experiencia
+- Aplicación de métodos matemáticos y computacionales a problemas científicos.
+- Elaboración de material académico y recursos de aprendizaje.
+- Docencia universitaria en matemáticas y física.
 
-<div align="center">
+## Proyectos destacados
 
-| Rol | Organización | Período |
-|-----|-------------|---------|
-| **Docente Universitario** | Universidad Mariano Gálvez | 2021 – Presente |
-| **Coordinador de Climatología** | INSIVUMEH | 2023 – 2024 |
-| **Vulcanología y Geofísica** | INSIVUMEH | 2019 – 2022 |
-| **Asistente de Docencia** | USAC | 2017 – 2019 |
+| Proyecto | Descripción |
+| --- | --- |
+| [ConvertToMap](https://converttomap.com) | Plataforma web para convertir, procesar y visualizar datos geoespaciales. |
+| [Recursos Académicos](https://peterargueta.github.io/recursos_academicos/) | Notas de clase, ejercicios y soluciones de matemáticas y física. |
+| [ScanPiDF](https://play.google.com/store/apps/details?id=com.scanpidf.app) | Aplicación Android para escanear documentos y generar archivos PDF. |
+| [Precios de Combustibles GT](https://github.com/PeterArgueta/Precios_combustibles_GT) | Proyecto de procesamiento y seguimiento de datos sobre precios de combustibles en Guatemala. |
 
-</div>
+## Herramientas y tecnologías
 
----
+**Análisis de datos:** Python, pandas, NumPy, Matplotlib, Jupyter, SQL.
 
-## 🎓 Educación
+**Información geográfica:** QGIS, ArcGIS, GeoServer, Folium.
 
-<div align="center">
+**Desarrollo y automatización:** Git, Bash, Linux, HTML, herramientas web.
 
-🎓 **Licenciatura en Física Aplicada** — Universidad de San Carlos de Guatemala (USAC), 2014–2019
+**Documentación científica:** LaTeX.
 
-> *Tesis: Reconocimiento Automático de Señales Sísmicas Volcánicas en el Volcán Santiaguito, Guatemala.*
+## Trayectoria profesional y académica
 
-</div>
+| Rol | Institución | Período |
+| --- | --- | --- |
+| Docente universitario | Universidad Mariano Gálvez | 2021–presente |
+| Coordinador de Climatología | INSIVUMEH | 2023–2024 |
+| Vulcanología y Geofísica | INSIVUMEH | 2019–2022 |
+| Asistente de docencia | Universidad de San Carlos de Guatemala | 2017–2019 |
 
----
+## Formación académica
 
-## 📊 GitHub Stats
+**Licenciatura en Física Aplicada** — Universidad de San Carlos de Guatemala (2014–2019).
 
-<div align="center">
+Tesis: [Reconocimiento automático de señales sísmicas volcánicas en el volcán Santiaguito, Guatemala](https://github.com/PeterArgueta/Tesis_Licenciatura_en_Fisica_USAC).
 
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterArgueta&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterArgueta&layout=compact&theme=default&hide_border=true)
+## Idiomas
 
-</div>
+Español (nativo) · Inglés (intermedio, B1–B2).
 
----
+## Contacto
 
-## 🌍 Idiomas
-
-- 🇪🇸 **Español** — Nativo
-- 🇬🇧 **Inglés** — Nivel intermedio (B1–B2)
-
----
-
-## 🔗 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-argueta-a5b2a21a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterArgueta)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pitercios03)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterargueta@duck.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/peter-argueta-a5b2a21a4/) · [GitHub](https://github.com/PeterArgueta) · [YouTube](https://youtube.com/@pitercios03) · [Correo electrónico](mailto:peterargueta@duck.com)
