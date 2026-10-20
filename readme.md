@@ -1,5 +1,3 @@
-# Peter Argueta
-
 **Físico Aplicado | Análisis de Datos y Desarrollo Tecnológico | Docencia Universitaria**
 
 Guatemala · [LinkedIn](https://www.linkedin.com/in/peter-argueta-a5b2a21a4/) · [Correo](mailto:peterargueta@duck.com)
